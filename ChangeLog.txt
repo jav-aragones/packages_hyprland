@@ -1,0 +1,9 @@
+Cambios realizados al repositorio.
+
+16/09/2024 - Inicio del Changelog.
+
+18/09/2024 - Actualizado grim
+19/009/2024 - Actualizado aquamarine a v0.4.1.
+20/09/2024 - Añadido FontAwesome
+
+
