@@ -1,11 +1,11 @@
 # packages_hyprland
 
-Este repo guarda los paquetes que huce para hyprland.
+Este repo guarda los paquetes que hice para hyprland.
 
 
 Son a partir de las fuentes git de cada uno.
 
-Incluyen algunas dependencias y los paquetes que usoa diario.
+Incluyen algunas dependencias y los paquetes que uso a diario.
 
 
 
